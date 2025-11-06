@@ -1,3 +1,19 @@
+
+let Food;
+
+class food {
+x;
+y;
+
+constructor() {
+  this.#x = this.#newRandomCoordinate();
+  this.#y = this.#newRandomCoordinate();
+
+
+}}
+
+
+
 // Global variables
 
 /**
